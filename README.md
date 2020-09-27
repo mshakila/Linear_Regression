@@ -5,3 +5,5 @@
 
 Done EDA, visualizations of variables, creating dummy variables,
 outlier treatment, comparison of models using adjusted R-square and RMSE.
+
+An extensive report has also been prepared to documnet the process.
